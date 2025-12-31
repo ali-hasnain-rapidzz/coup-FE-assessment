@@ -6,7 +6,7 @@ import { Birds } from "./Birds"
 
 export function Hero() {
   return (
-    <section className="relative h-screen w-full overflow-hidden flex flex-col items-center justify-start text-center pt-0">
+    <section className="relative min-h-screen w-full overflow-x-hidden min-[1921px]:h-screen min-[1921px]:min-h-0 min-[1921px]:overflow-hidden flex flex-col items-center justify-start text-center pt-0">
       
       <TopLeftGlow />
       <Birds />
