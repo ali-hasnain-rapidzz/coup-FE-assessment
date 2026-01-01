@@ -1,5 +1,7 @@
 # Coup Frontend Assessment
 
+[![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://coup-fe-assessment.vercel.app/)
+
 This repository contains a high-fidelity implementation of a landing page Hero section, demonstrating modern frontend engineering practices with Next.js 16 and Tailwind CSS v4.
 
 ## 🚀 Technology Stack
